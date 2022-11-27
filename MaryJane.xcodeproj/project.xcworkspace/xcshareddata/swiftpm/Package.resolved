@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "carekit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/carekit-apple/CareKit",
+      "state" : {
+        "branch" : "stable",
+        "revision" : "31b0f509ec8839e8c7dc1cbf718cadab59c2c6e3"
+      }
+    }
+  ],
+  "version" : 2
+}
